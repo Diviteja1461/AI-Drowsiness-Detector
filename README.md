@@ -110,7 +110,6 @@ streamlit run app.py
 - Upload a driver face image
 - Get instant Drowsy / Non Drowsy prediction
 - Confidence scores for both classes
-- Grad-CAM visualization showing which facial regions influenced the prediction
 - About page with dataset and model information
 
 ---
